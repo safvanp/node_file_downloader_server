@@ -1,6 +1,6 @@
-# A File Download Server On Node with Express
+# A File Download Server Using Node.js and Express
 
-A node js server for file download ,get started with a Express server with Node.js.
+A Node.js server for file downloads: Get started with an Express server using Node.js.
 
 ## Packages
 
